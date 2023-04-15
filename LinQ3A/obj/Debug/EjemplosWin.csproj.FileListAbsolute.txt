@@ -1,0 +1,65 @@
+C:\Anibal\Linq\Proyecto\Leccion 1\EjemplosWin\bin\Debug\EjemplosWin.exe.config
+C:\Anibal\Linq\Proyecto\Leccion 2\bin\Debug\EjemplosWin.exe.config
+C:\Anibal\Linq\Proyecto\Leccion 2\bin\Debug\EjemplosWin.exe
+C:\Anibal\Linq\Proyecto\Leccion 2\bin\Debug\EjemplosWin.pdb
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.frmExtensiones.resources
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.frmMenu.resources
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.Properties.Resources.resources
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.csproj.GenerateResource.Cache
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.exe
+C:\Anibal\Linq\Proyecto\Leccion 2\obj\Debug\EjemplosWin.pdb
+C:\Anibal\Linq\Proyecto\Leccion 3\bin\Debug\EjemplosWin.exe.config
+C:\Anibal\Linq\Proyecto\Leccion 3\obj\Debug\EjemplosWin.exe
+C:\Anibal\Linq\Proyecto\Leccion 3\obj\Debug\EjemplosWin.pdb
+C:\Anibal\Linq\Proyecto\Leccion 4\bin\Debug\EjemplosWin.exe.config
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.exe
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.pdb
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.frmExtensiones.resources
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.frmMenu.resources
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.frmQueries1.resources
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.Properties.Resources.resources
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.csproj.GenerateResource.Cache
+C:\Anibal\Linq\Proyecto\Leccion 4\bin\Debug\EjemplosWin.exe
+C:\Anibal\Linq\Proyecto\Leccion 4\bin\Debug\EjemplosWin.pdb
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.csprojResolveAssemblyReference.cache
+C:\Anibal\Linq\Proyecto\Leccion 4\obj\Debug\EjemplosWin.frmQueries2.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\bin\Debug\EjemplosWin.exe.config
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\bin\Debug\EjemplosWin.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\bin\Debug\EjemplosWin.pdb
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.csproj.AssemblyReference.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.frmExtensiones.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.frmMenu.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.frmQueries1.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.frmQueries2.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.Properties.Resources.resources
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.csproj.GenerateResource.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.exe
+C:\Users\GONZALO\Desktop\trabajo\1 clases\CEI\Programacion 3\2 ejerciciosCursoP3\LinQ1b\Leccion 4\obj\Debug\EjemplosWin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\bin\Debug\EjemplosWin.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\bin\Debug\EjemplosWin.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\bin\Debug\EjemplosWin.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.frmExtensiones.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.frmMenu.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.frmQueries1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.frmQueries2.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion 3\LinQ3A\obj\Debug\EjemplosWin.pdb
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\bin\Debug\EjemplosWin.exe.config
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\bin\Debug\EjemplosWin.exe
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\bin\Debug\EjemplosWin.pdb
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.csproj.AssemblyReference.cache
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.frmExtensiones.resources
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.frmMenu.resources
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.frmQueries1.resources
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.frmQueries2.resources
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.Properties.Resources.resources
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.csproj.GenerateResource.cache
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.csproj.CoreCompileInputs.cache
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.exe
+C:\Users\Franco Carreras\Desktop\CEI\Programación III Material\LinQ3A\obj\Debug\EjemplosWin.pdb
